@@ -3,4 +3,4 @@ Solar System using CSS Animation
 
 Preview:
 
-<img src="output_preview.gif">
+![](https://github.com/alisha-takkar/solar_system/blob/master/output-preview.gif)
