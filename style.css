@@ -166,7 +166,7 @@
     top: 46%;
     left: 46%;
     transform: translate(-50%, -50%);
-    animation: orbit5 7s linear infinite;
+    animation: orbit5 11s linear infinite;
 }
 
 @keyframes orbit5{
@@ -189,7 +189,7 @@
     top: 47%;
     left: 47%;
     transform: translate(-50%, -50%);
-    animation: orbit6 13s linear infinite;
+    animation: orbit6 8s linear infinite;
 }
 
 @keyframes orbit6{
